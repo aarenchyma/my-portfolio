@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://yourproductiondomain.com"),
+  metadataBase: new URL("https://my-portfolio-ten-orpin-4z4as87101.vercel.app/"),
   title: "Akinola Victor — Software Engineer",
   description: " software engineer based in Lagos, Nigeria. I build scalable web and mobile applications with JavaScript, TypeScript, React, Node.js, Java and SpringBoot",
   keywords: [
@@ -31,13 +31,13 @@ export const metadata: Metadata = {
     "software engineer portfolio",
     "Akinola Victor portfolio"
   ],
-  authors: [{ name: "Akinola Victor", url: "https://yoursite.com" }],
+  authors: [{ name: "Akinola Victor", url: "https://my-portfolio-ten-orpin-4z4as87101.vercel.app/" }],
 
   openGraph: {
     title: "Akinola Victor — Fullstack Software Engineer",
     description:
       "Fullstack engineer based in Lagos building scalable web and mobile applications.",
-    url: "https://yoursite.com",
+    url: "https://my-portfolio-ten-orpin-4z4as87101.vercel.app/",
     siteName: "Akinola Victor Portfolio",
     images: [
       {
