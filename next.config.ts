@@ -6,7 +6,6 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
   },
   compress: true,
-  swcMinify: true,
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
