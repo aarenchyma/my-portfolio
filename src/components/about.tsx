@@ -30,7 +30,7 @@ const About = () => {
             </h2>
 
             <p className="text-base leading-relaxed" style={{ color: "var(--fg-muted)" }}>
-              I'm a software engineer based in Lagos. I build scalable, user-centric applications across the stack — from system architecture to the UI layer. My background in Mathematics education sharpens how I approach problem decomposition and logic.
+              I'm a software engineer based in Lagos. I build scalable, user-centric applications across the stack — from system architecture to the UI layer. My background in Mathematics sharpens how I approach problem decomposition and logic.
             </p>
 
             <p className="text-base leading-relaxed" style={{ color: "var(--fg-muted)" }}>
