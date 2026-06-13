@@ -23,7 +23,7 @@ const Home = () => {
           </p>
 
           <div className="flex items-center gap-6 mt-10 text-2xl">
-            <a href="https://github.com/Alphaboy20023" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/aarenchyma" target="_blank" rel="noopener noreferrer"
               className="hover:text-secondary transition-colors" style={{ color: "var(--fg-muted)" }}>
               <i className="fa-brands fa-github"></i>
             </a>
@@ -85,7 +85,7 @@ const Home = () => {
             style={{ borderTop: "1px solid var(--border)", color: "var(--fg-muted)" }}>
             <p>© {new Date().getFullYear()} Akinola Victor</p>
             <div className="flex gap-6">
-              <a href="https://github.com/Alphaboy20023" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">GitHub</a>
+              <a href="https://github.com/aarenchyma" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">GitHub</a>
               <a href="https://www.linkedin.com/in/victor-akinola-27a33b320/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">LinkedIn</a>
               <a href="mailto:timivictor565@gmail.com" className="hover:text-secondary transition-colors">Email</a>
             </div>
